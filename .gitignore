@@ -55,3 +55,7 @@ coverage/
 
 # Ignore Firebase configuration keys
 firebase.js
+
+# carpeta al pedo
+1-Daily-Guide/
+
